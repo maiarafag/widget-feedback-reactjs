@@ -9,7 +9,7 @@
 </p>
 
 # Sobre
-<p>Aplicação feita com ReactJS com Vite + Typescript, na qual possui botão flutuante (widget) que permite tirar dúvidas ou enviar algum comentário. </p>
+<p>Aplicação feita com ReactJS, Vite e Typescript, na qual possui botão flutuante (widget) que permite tirar dúvidas ou enviar algum comentário. </p>
 
 # Objetivo
 <p>
@@ -30,7 +30,7 @@
 Antes de começar, é necessário ter instalado em sua máquina o Node.js e o VSCode. Aplicando em prática:
 ```bash
 #  Clone este repositório 
-$ git clone <https://github.com/mayaraf15/widget-feedback-reactjs>
+$ git clone <https://github.com/maiarafag/widget-feedback-reactjs>
 
 #  Execute npm install para instalar as dependências 
 $ npm install
